@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,PerformanceRating,MonthlyHours,ProjectsCompleted,Absences,Tenure,AttritionRisk
+101,Alice,Sales,4.5,160,5,2,3,0.2
+102,Bob,Engineering,3.8,180,4,3,2,0.5
+103,Charlie,HR,4.2,150,6,1,4,0.3
+104,David,Engineering,3.5,175,3,4,1,0.8
+105,Eva,Sales,4.0,165,5,2,5,0.6
